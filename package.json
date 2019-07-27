@@ -1,0 +1,20 @@
+{
+  "name": "jsdoit-download",
+  "version": "1.0.0",
+  "description": "Download jsdo.it user's code tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kasari/jsdoit-download.git"
+  },
+  "keywords": [],
+  "author": "kasari <kasari3939@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kasari/jsdoit-download/issues"
+  },
+  "homepage": "https://github.com/kasari/jsdoit-download#readme"
+}

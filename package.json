@@ -1,10 +1,10 @@
 {
-  "name": "jsdoit-download",
+  "name": "jsdoit-dl",
   "version": "1.0.0",
   "description": "Download jsdo.it user's code tool",
   "main": "index.js",
   "bin": {
-    "jsdoit-download": "bin/jsdoit-download.js"
+    "jsdoit-dl": "bin/jsdoit-download.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

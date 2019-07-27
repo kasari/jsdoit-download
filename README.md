@@ -1,15 +1,15 @@
-# jsdoit-download
+# jsdoit-dl
 Download jsdo.it user's code tool
 
 ## Install
 ```
-npm install -g jsdoit-download
+npm install -g jsdoit-dl
 ```
 
 ## Usage
-`jsdoit-download -h`
+`jsdoit-dl -h`
 ```
-Usage: jsdoit-download [options]
+Usage: jsdoit-dl [options]
 
 Options:
   -u, --user <name>  user name
@@ -19,5 +19,5 @@ Options:
 
 ## Example
 ```
-jsdoit-download -u amusan
+jsdoit-dl -u amusan
 ```

@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/kasari/jsdoit-download/issues"
   },
-  "homepage": "https://github.com/kasari/jsdoit-download#readme"
+  "homepage": "https://github.com/kasari/jsdoit-download#readme",
+  "dependencies": {
+    "commander": "^2.20.0",
+    "jsdom": "^15.1.1",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4"
+  }
 }

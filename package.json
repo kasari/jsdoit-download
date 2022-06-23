@@ -22,7 +22,7 @@
   "homepage": "https://github.com/kasari/jsdoit-download#readme",
   "dependencies": {
     "commander": "^2.20.0",
-    "jsdom": "^15.1.1",
+    "jsdom": "^16.5.0",
     "request": "^2.88.0",
     "request-promise": "^4.2.4"
   }
